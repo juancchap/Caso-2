@@ -33,6 +33,9 @@ public class Caso2 {
             case 7 :
                 JOptionPane.showMessageDialog(null,"El dia es Domingo");
             break;
+            
+            default:
+                JOptionPane.showMessageDialog(null,"Opcion no Valida");
                 
             
         }  
